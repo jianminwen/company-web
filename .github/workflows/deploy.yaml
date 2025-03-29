@@ -32,7 +32,7 @@ jobs:
 
             # 部署到 GitHub Pages
             - name: Deploy
-              uses: JamesIves/github-pages-deploy-action@v4
+              uses: actions/upload-artifact@v3
               with:
                   folder: ./dist
                   branch: gh-pages

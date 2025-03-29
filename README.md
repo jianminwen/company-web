@@ -80,7 +80,7 @@ npm run build
 
 ## 作者
 
-liyunkun
+jmin
 
 ## 许可证
 
