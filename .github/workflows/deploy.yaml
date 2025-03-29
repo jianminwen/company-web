@@ -34,4 +34,4 @@ jobs:
             - name: Deploy
               uses: actions/upload-artifact@v4
               with:
-                  folder: ./dist
+                  path: ./dist
